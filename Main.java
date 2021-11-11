@@ -14,7 +14,6 @@ public class Main {
         char opt3 = '0';
         int a_caine = 0, a_pisica = 0, a_soparla = 0;
         int j = 0;
-        int opt4 = 0;
 
         while (opt != 'x') {
             System.out.println(" \n 1 - Add new pet\n 2 - List pets\n x - Quit\n");
